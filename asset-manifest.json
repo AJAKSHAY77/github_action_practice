@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github-actions-crash-course/static/css/main.073c9b0a.css",
-    "main.js": "/github-actions-crash-course/static/js/main.f8813098.js",
-    "static/js/787.dd9a8d66.chunk.js": "/github-actions-crash-course/static/js/787.dd9a8d66.chunk.js",
-    "static/media/logo.svg": "/github-actions-crash-course/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
-    "index.html": "/github-actions-crash-course/index.html",
-    "main.073c9b0a.css.map": "/github-actions-crash-course/static/css/main.073c9b0a.css.map",
-    "main.f8813098.js.map": "/github-actions-crash-course/static/js/main.f8813098.js.map",
-    "787.dd9a8d66.chunk.js.map": "/github-actions-crash-course/static/js/787.dd9a8d66.chunk.js.map"
+    "main.css": "/AJAKSHAY77/github_action_practice/static/css/main.073c9b0a.css",
+    "main.js": "/AJAKSHAY77/github_action_practice/static/js/main.e93f5af6.js",
+    "static/js/787.dd9a8d66.chunk.js": "/AJAKSHAY77/github_action_practice/static/js/787.dd9a8d66.chunk.js",
+    "static/media/logo.svg": "/AJAKSHAY77/github_action_practice/static/media/logo.16b63f3cde49a58f69098d2ad30bf094.svg",
+    "index.html": "/AJAKSHAY77/github_action_practice/index.html",
+    "main.073c9b0a.css.map": "/AJAKSHAY77/github_action_practice/static/css/main.073c9b0a.css.map",
+    "main.e93f5af6.js.map": "/AJAKSHAY77/github_action_practice/static/js/main.e93f5af6.js.map",
+    "787.dd9a8d66.chunk.js.map": "/AJAKSHAY77/github_action_practice/static/js/787.dd9a8d66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f8813098.js"
+    "static/js/main.e93f5af6.js"
   ]
 }
